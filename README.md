@@ -35,7 +35,7 @@ Persona and Context Prompts:
 •	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
 •	The system should convey reliability and ease of use, with minimal training required for operators.
 
-### Conclusion
+# Conclusion
 The integration of AI-powered automation systems into the manufacturing industry, guided by strategic prompt patterns, demonstrates significant potential to revolutionize production efficiency, reduce downtime, and optimize energy consumption. By applying Unit 2 prompt types (Straightforward Prompts, Tabular Format Prompting, and Preceding Question Prompting) to the Unit 5 use case, the following outcomes were achieved:
 
 # 1. Achievement of Objectives
@@ -112,5 +112,6 @@ A roadmap for phased implementation and scalability.
 
 
 
-# Result: Thus the Prompts were exected succcessfully.
+# Result: 
+ Thus the Prompts were exected succcessfully.
 
